@@ -73,5 +73,5 @@ Znajdź mnie na:
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dnowo&label=Wy%C5%9Bwietlenia%20profilu&icon=6&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=dnowo&label=Wy%C5%9Bwietlenia%20profilu&icon=6&pretty=false)
 
