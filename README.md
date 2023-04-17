@@ -1,10 +1,11 @@
 
-<p align="center"><font size="7"> Czołem👋! <br> Miło, że wpadłeś/aś! <br> Poniżej znajdziesz kilka informacji o mnie. <br> 👇👇👇👇👇👇👇👇 </font></p>
-
-## 🌐 Kontakt:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnowo) <br>
+<p align="center"><font size="7"> Czołem👋! <br> Miło, że wpadłeś/aś! <br> Poniżej znajdziesz kilka informacji o mnie. <br> 👇👇👇👇👇👇👇👇 <br>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnowo)
+<br>
 📧 danielnowo@gmail.com
-
+</p>
+  
 ## 💻 Stos technologiczny:
 ### 🛠️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
