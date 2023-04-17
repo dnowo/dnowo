@@ -1,10 +1,9 @@
 
 <p align="center"><font size="7"> Czołem👋! <br> Miło, że wpadłeś/aś! <br> Poniżej znajdziesz kilka informacji o mnie. <br> 👇👇👇👇👇👇👇👇 </font></p>
 
-## 🌐 Społecznościowe:
-Znajdź mnie na:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnowo) 
+## 🌐 Kontakt:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnowo) <br>
+📧 danielnowo@gmail.com
 
 ## 💻 Stos technologiczny:
 ### 🛠️ Backend
